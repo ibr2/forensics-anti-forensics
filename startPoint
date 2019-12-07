@@ -1,0 +1,14 @@
+
+Storage anti-forensics
+network anti-forensics
+os-     anti-forensics
+malware anti-forensics
+memory  anti-forensics
+filesystem anti-forensics
+
+الموضوع كبير جدا anti Forensics وكل جانب فيه techniques على حسب وين تتكلم هل في التخزين او الشبكه او الفيروسات او نظم للتشغيل
+بتضيع، انصح تحدد اكثر وتبحث مثلا تحدد الموضوع في file system او مثلا memory forensics
+
+مثلا في memory forensics في dkom وفي file system ممكن timestamp Stomping
+
+
